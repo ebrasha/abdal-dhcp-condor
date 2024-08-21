@@ -41,6 +41,7 @@ The software **Abdal DHCP Condor** is named in honor of **Kevin Mitnick**, one o
 * IP reservation time adjustment for DHCP
 * Extremely fast
 * Infinite attack mode
+* Monitoring window for detailed attack information
 
 
 ## 📝️ How it Works?
