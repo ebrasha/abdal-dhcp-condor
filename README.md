@@ -14,7 +14,7 @@ This software, with a simple click, is capable of causing a crisis and challenge
 
 ## 🙏 The reason for using the name "Condor" in the software's name
 
-The software Abdal DHCP Condor is named in honor of Kevin Mitnick, one of the most renowned hackers and cybersecurity experts in history. The name "Condor," which Mitnick earned due to his extraordinary skills in infiltrating computer systems, inspired me in choosing this name for the software. With this naming, I wanted to pay special respect to his legacy and the profound impact he had on the world of cybersecurity. Mitnick was not only a legendary hacker but also served the community as a prominent security consultant and author after his time in prison. As someone who deeply respects his career, I proudly named this software after him.
+The software **Abdal DHCP Condor** is named in honor of **Kevin Mitnick**, one of the most renowned hackers and cybersecurity experts in history. The name "Condor," which Mitnick earned due to his extraordinary skills in infiltrating computer systems, inspired me in choosing this name for the software. With this naming, I wanted to pay special respect to his legacy and the profound impact he had on the world of cybersecurity. Mitnick was not only a legendary hacker but also served the community as a prominent security consultant and author after his time in prison. As someone who deeply respects his career, I proudly named this software after him.
 
 
 ## 🛠️ Development Environment Setup
